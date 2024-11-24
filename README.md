@@ -14,7 +14,7 @@
 
 
 
-  <p id="para3" style="border: 1px solid black; padding: 10px;"> <font style="color:red">Le système et le schéma cinématique</font>
+  <p id="para3" style="border: 1px solid black; padding: 100px;"> <font style="color:red">Le système et le schéma cinématique</font>
   <br>
   <center >  <img src="im/3.jpg" style="float:left;" /><img src="im/4.jpg" style="float:left;" /></center>
   </p>
