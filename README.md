@@ -20,13 +20,13 @@
   
   <center>  <img src="im/3.jpg" width="50%" style="float:left;" /><img src="im/4.jpg" style="float:left;" /></center>
 
-  <br><br><br><br><br><br><br><br><br><br><br><br0><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br0><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     <p id="para2" style="border: 1px solid black; padding: 10px;"> <font style="color:red">La loi entrée-sortie</font></p>
   <br>
   <p id="para3">
   Les schémas de changement de bases:</p>
   <br><center >  <img src="im/5.jpg" style="float:left;" /><img src="im/6.jpg" style="float:left;" /></center>
-  <br>><br><br><br0><br><br><br><br><br><br><br><br>
+  <br>><br><br><br0><br><br><br><br><br><br><br><br><br><br><br><br>
   <p id="para3">Ainsi, on établie la loi entrée-sortie: </p>
   <br> <center><img src="im/7.jpg"  /> </center>
   <br>
