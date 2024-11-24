@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="UTF-8">
+    <link type="image/png" rel="shortcut" href="/images/keepvid-works-logo.jpg">
+    <link type="image/ico" rel="icon" href="/favicon.ico">
+	<title>Keepvid: Online Video downloader. Download Youtube videos.</title>
+	<meta name="description" content="Keepvid helps download online videos from many sites. Best Youtube downloader, Keepvid is free, fast & secure. Youtube to mp3 converter included.">
+	<meta property="og:title" content="Keepvid: Online Video downloader. Download Youtube videos."/>
+    <meta property="og:description" content="Keepvid helps download online videos from many sites. Best Youtube downloader, Keepvid is free, fast & secure. Youtube to mp3 converter included."/>
+	<meta name="robots" content="All,index,follow">
+	<meta property="og:image" content="/images/keepvid-works-logo.jpg">
+	<meta property="og:description" content="Keepvid helps download online videos from many sites. Best Youtube downloader, Keepvid is free, fast & secure. Youtube to mp3 converter included.">
+	<meta property="og:site_name" content="KeepVid">
+	<meta property="og:type" content="website">
+	<link type="image/png" href="/images/keepvid-works-logo.jpg" rel="apple-touch-icon">
+<meta property="og:image" content="https://ww12.keepvid.works/images/keepvid-works-logo.jpg"/>
+	<meta property="og:image:alt" content="Keepvid: Online Video downloader. Download Youtube videos."/>
+	<meta property="og:type" content="website"/>
+    <link rel="alternate" href="https://ww12.keepvid.works/en/" hreflang="en" />
+<link rel="alternate" href="https://ww12.keepvid.works/ru/" hreflang="ru" />
+<link rel="alternate" href="https://ww12.keepvid.works/hu/" hreflang="hu" />
+<link rel="alternate" href="https://ww12.keepvid.works/es/" hreflang="es" />
+<link rel="alternate" href="https://ww12.keepvid.works/fr/" hreflang="fr" />
+<link rel="alternate" href="https://ww12.keepvid.works/pt/" hreflang="pt" />
+<link rel="alternate" href="https://ww12.keepvid.works/tr/" hreflang="tr" />
+<link rel="alternate" href="https://ww12.keepvid.works/it/" hreflang="it" />
+<link rel="alternate" href="https://ww12.keepvid.works/jp/" hreflang="jp" />
+<link rel="alternate" href="https://ww12.keepvid.works/pl/" hreflang="pl" />
+<link rel="alternate" href="https://ww12.keepvid.works/ua/" hreflang="ua" />
+<link rel="alternate" href="https://ww12.keepvid.works/de/" hreflang="de" />
+<link rel="alternate" href="https://ww12.keepvid.works/zh/" hreflang="zh" />
+<link rel="alternate" href="https://ww12.keepvid.works/" hreflang="x-default" />
+<link rel="canonical" href="https://ww12.keepvid.works/en/"/>	<meta property="og:site_name" content="Keepvid: Online Video downloader. Download Youtube videos."/>
+	<meta property="og:url" content="https://ww12.keepvid.works"/>
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:description" content="#KeepVid" />
+	<meta name="twitter:title" content="Keepvid: Online Video downloader. Download Youtube videos." />
+	<meta name="twitter:image" content="https://ww12.keepvid.works/images/keepvid-works-logo.jpg" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">      
+	<link rel="stylesheet" type="text/css" href="/default.css?v000012">
+    <link rel="manifest" href="/manifest.json">
+</head>
+<body>
+    
+    <!-- Fixed navbar on top -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only" lang=en>Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">
+  	 	     <img class="navbar-brand-image" title="K" alt="K" src="/images/keepvid-works-log-icon.png">
+			</a>
+			<a class="navbar-brand" href="/">Keepvid.Works</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse navbar-right">
+        	<ul class="nav navbar-nav">
+                <li><a href=/en/download-youtube-videos>Download Youtube Videos</a></li>
+                <li><a href=/en/convert-youtube-to-mp3>Convert Youtube to mp3</a></li>
+                <li><a href=/en/download-youtube-playlist>Download Youtube playlist</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">English<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class=active><a href=/en/>English</a></li><li><a href=/ru/>Русский</a></li><li><a href=/hu/>Magyar</a></li><li><a href=/es/>Español</a></li><li><a href=/fr/>Français</a></li><li><a href=/pt/>Português</a></li><li><a href=/tr/>Türkçe</a></li><li><a href=/it/>Italiano</a></li><li><a href=/jp/>日本語</a></li><li><a href=/pl/>Polski</a></li><li><a href=/ua/>Українська</a></li><li><a href=/de/>Deutsch</a></li><li><a href=/zh/>中文</a></li>                    </ul>
+                </li>                    
+			</ul>
+		</div>
+      </div>
+    </nav>
+
+    <!-- Begin page content -->
+<div id=main class="container main-container">
+
+<div class="page-header"><h1 class="h1title"><a href="/">Keepvid: download Youtube videos, convert youtube to mp3, mp4.</a></h1></div><h5 class=hidden-xs style='margin:-20px 0 10px;'>Keepvid helps <em>download youtube video</em> with ease. Fast Youtube Downloader & Mp3 Converter with many options. Works with many sites. New: <em>download youtube playlists</em>!!!</h5><form id="form1" method="POST" action="/">
+ 	  <div class="row">
+  		<div class="col-xs-12">
+            <div class="input-group">
+                <input id="dlURL" name="url" value="" class="form-control input-lg " placeholder="Enter Video URL Link..."  required >
+                <span class="input-group-btn">
+                    <button type="submit" id=dlBTN1 class="btn btn-primary btn-lg g-recaptcha" data-sitekey="6LfoWsQcAAAAACyoTdC9goAzkfFl4WC11-Xhx1dv" data-callback="onSubmit" data-action="submit">
+                        <span id="dlBTNtext">
+				            <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>
+				            <span class="hidden-xs">&nbsp;Download</span>
+                        </span>
+                    </button>
+                </span>
+            </div></div></div>
+    </form>
+    <br>
+    <div id=searchres class=row></div><br><br><br>
+    
+<div class=row>
+    
+<div class=col-sm-6>
+    
+    
+    
+    <div class="panel panel-info">
+    	<div class="panel-heading">
+            <h2 class="nomargin">Keepvid.works Website Features</h2>
+        </div>
+    	<div class="panel-body">
+            <li><em>Keepvid</em> helps <a href=/download-youtube-videos><strong>download Youtube videos</strong></a> with HD resolution</li>
+		    <li>Keepvid Mp3 converter provides an easy way to <a href=/convert-youtube-to-mp3><strong>convert Youtube to MP3</strong></a></li>
+            <li>We also sport an efficient way to <a href=/download-youtube-playlist><strong>download Youtube playlist</strong></a>, try it out</li> 
+		    <li>Unlimited, free, high quality conversions and fast video & mp3 downloads</li>
+		    <li>No additional software required to start downloading, only internet browser</li>
+		    <li>We work fine on Android, Iphone, tablets and all other mobile device</li>        </div>
+    </div>
+    <div class="panel panel-info">
+	    <div class="panel-heading">
+            <h2 class="nomargin">Download Youtube with Bookmarklet</h2>
+        </div>
+	    <div class="panel-body">
+            Simply drag this link <a id="bookmarklet" href="javascript😞function(){ window.open('http://keepvid.works/?url='+encodeURIComponent(location.href)); })();"><strong>KEEPVID</strong></a> 
+            to your browser's Bookmarks. Then, whenever you're on a page with some video - click the bookmark to be redirected here. This way there's no need to copy/paste URL. 
+            <span class=text-muted>We're sorry, due to abuse, this method will require a <em>manual submit</em> on first conversion (each session)..</span>        </div>
+    </div>
+</div>
+    
+<div class=col-sm-6>
+
+<div class="panel-group hidden-xs" id="accordion" role="tablist" aria-multiselectable="true">
+         
+  <div class="panel panel-success">
+    <div class="panel-heading" role="tab" id="heading6">
+      <h5 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="true" aria-controls="collapse6">
+          <strong>MAR 04, 2019</strong> &raquo; Redesign and some new features are on the way        </a>
+      </h5>
+    </div>
+    <div id="collapse6" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading6">
+      <div class="panel-body">
+        We're excited to announce, youtube playlists are working again, some redesign is happening and more new features are being added. The most important of new additions we think 
+            is the ability to search youtube directly from here. Main page won't do that, but the 3 new pages will do search auto-complete and 12 youtube results for you. Just start typing your keywords..       </div>
+    </div>
+  </div>
+
+  <div class="panel panel-warning">
+    <div class="panel-heading" role="tab" id="heading5">
+      <h5 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="true" aria-controls="collapse5">
+          <strong>NOV 06, 2018</strong> &raquo; Many music videos are failing to download        </a>
+      </h5>
+    </div>
+    <div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
+      <div class="panel-body">
+        <strong>RESOLVED</strong> .. Youtube is always trying something new to stop us from downloading music and video... And it happened again, - many music videos are not responding to downloads.. 
+		Nothing we can do at the moment, but we are looking into this! A fix is on the way!! And keepvid delivers the solution.       </div>
+    </div>
+  </div>
+
+	<div class="panel panel-warning">
+    <div class="panel-heading" role="tab" id="heading4">
+      <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="true" aria-controls="collapse4">
+          <strong>SEPT 07, 2018</strong> &raquo; Youtube rolls out new obfuscated JS player...        </a>
+      </h4>
+    </div>
+    <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
+      <div class="panel-body">
+        <strong>RESOLVED</strong> .. This has been resolved and our youtube downloader is back functioning fine! thanks for your patience and continued patronage. =)<br>
+		Earlier... Bad news for all youtube downloader websites, all the software, all the browser plugins... Everything is starting to fail, as youtube propagates their most 
+     	recent update to javascript based player code across all their servers. With this update, old methods of downloading youtube are all failing, gradually. Some videos may still be downloadable, 
+     	if they haven't received new player update, but eventually all will become un-downloadable.. We are working to prevent this and circumvent new youtube's attempt at preventing us from 
+     	downloading our favorite videos. We will keep updated as this progresses..       </div>
+    </div>
+  </div>
+
+    <div class="panel panel-success">
+    <div class="panel-heading" role="tab" id="heading3">
+      <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="true" aria-controls="collapse3">
+          <strong>AUG 27, 2018</strong> &raquo; Youtube Playlists are BACK, plus more optimization        </a>
+      </h4>
+    </div>
+    <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
+      <div class="panel-body">
+        <strong>RESOLVED</strong> .. We are happy to announce, <strong>youtube playlist downloader is back</strong>! Enjoy lightning fast video list printouts.</a> 
+   		   New method does involve an extra step, for each video.. You'll have to click on every title to be redirected onto the video download page. Otherwise this is goode olde keepvid here with new old returned feature!! We've also done more optimization, involving 
+    	   caching and attack prevention. We're sorry for little time delays while you're using our website, this was done to stop no-life-having-idiots from trying to break in.       </div>
+    </div>
+  </div>
+  
+  <div class="panel panel-success">
+    <div class="panel-heading" role="tab" id="heading2">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="true" aria-controls="collapse2">
+          <strong>AUG 14, 2018</strong> &raquo; Servers optimized for (recent) heavier loads        </a>
+      </h4>
+    </div>
+    <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
+      <div class="panel-body">
+        Today we've optimized our servers to perform faster, respond faster, and deliver information faster. Recent brief periods of poorly/not functioning downloads have also been addressed... Keepvid is 
+     	the best <strong>youtube downloader</strong> & <strong>mp3 converter</strong>!       </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="heading1">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false" aria-controls="collapse1">
+          <strong>AUG 12, 2018</strong> &raquo; Temporarily disabled youtube playlist processing...        </a>
+      </h4>
+    </div>
+    <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1">
+      <div class="panel-body">
+        We're not proud of this, but we've had to disble youtube playlist processing, seeing how users request playlists with 5000+ videos. Our service works, and it works directly with the 
+    	website that host the video (usually - youtube) to deliver functioning download links for each video. Hence when given a playlist, it goes over every entry in it and returns a list of videos 
+    	with (multi-format) download links for all of them. That's why it used to take quite long to process a 10 video playlist. Up to a minute for 50 videos.. But 5000, dude.. This could take us something 
+    	around 1.5 to 2 hours... craaaazy... And so youtube playlist processing is disabled today, <strong>until better, faster method is found and developed</strong>.      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+</div>
+    
+<br><br>
+
+</div>
+<!-- End page content container -->
+<div class=bottom>
+<div class=container>
+    
+<div id='4-step-help' class="row">
+	<div class="col-xs-12">
+        <h3 class="">It is very easy to use <a href=https://keepvid.works><strong>KeepVid</strong></a> to <a href=https://keepvid.works/convert-youtube-to-mp3>download youtube videos</a> or <a href=/>convert youtube to mp3</a> in 4 quick steps..</h3>
+	    <h4>Please note, everything happens right here, in your Internet Browser. To copy or paste Video URL, please, tap or click in the browser Web Address box, No apps or addons, just same old web address box, where you enter google.com or any other web address. No complicated hidden clicking required.. <strong>Keepvid Mp3 made easy!</strong><br><br></h4>
+    </div>
+	<div class="col-sm-3 text-center">
+		<span title='step 1: get the video link (usually by copying it into device clipboard)' class="glyphicon glyphicon-link bigOne" aria-hidden="true"></span>
+		<h2>Copy Video Page URL (tap and hold, or press <kbd>CTRL</kbd>+<kbd>C</kbd>)</h2>
+	</div>
+	<div class="col-sm-3 text-center">
+		<span title='step 2: enter it above here (paste from clipboard)' class="glyphicon glyphicon-globe bigOne" aria-hidden="true"></span>
+		<h2>Paste it into the Box Above (same, or <kbd>CTRL</kbd>+<kbd>V</kbd>)</h2>
+	</div>
+	<div class="col-sm-3 text-center">
+		<span title='step 3: press blue button to show several download buttons' class="glyphicon glyphicon-hand-up bigOne" aria-hidden="true"></span>
+		<h2>Press the big button near the box above</h2>
+	</div>
+	<div class="col-sm-3 text-center">
+		<span title='step 4: choose your download format & press button to start download' class="glyphicon glyphicon-cloud-download bigOne" aria-hidden="true"></span>
+		<h2>Select HD Video Format & HQ Mp3 Download</h2>
+	</div>
+    
+</div>
+    
+<div class=row>
+    <div class="col-sm-12"><h2 class='h1title'>Q: <strong>How to use Keepvid to download online video and audio?</strong></h2>
+        <h3><strong>Answer</strong>: the 4-step process shown above in brief can be explained with more details. 
+                Hopefully this makes your visit more pleasant. Here's how everyone can download youtube videos using keepvid:</h3>
+        <li class=lead>Locate the online video you want to download. Open it in your internet browser app. 
+                    If you are using youtube app, find it in there somehow. You don't have to play the video,
+                    we just need to copy Video URL address (video link).. </em>. 
+        </li>
+        <li class=lead>Video Link is the "address" online where you can find that video. 
+                    We really don't know what video you want to download, so this link is needed to start the process.
+        </li>
+        <li class=lead>Where to find video link? It usually shows up in <em>browser address bar</em> when you open this video. 
+                    On desktop, press F6 to jump to browser address bar, then press CTRL+A to select text, 
+                    CTRL+C to copy selected text into Clipboard. 
+        </li>
+        <li class=lead>Youtube or facebook apps on your phone will usually show a <em>share</em> button, tap it and 
+                    in menu select <strong>Copy to Clipboard</strong> to copy address of the page with the video.
+        </li>
+        <li class=lead>Open <a href=/><strong>keepvid</strong></a>, and Paste the video URL link from clipboard 
+                    into the box on the page. Desktop users need to Right-Click in the box, 
+                    select Paste from the menu. Or left click in the box and press CTRL+A to paste the video link.
+        </li>
+        <li class=lead>Mobile users: tap the box and hold your finger until a menu shows up, in that menu select Paste, 
+                    or some icon that does the Paste, if you cannot see words like android sometimes confuses with icons.
+                    This will place earlier copied video link into the box. Now you caт go ahead and hit the blue Download button
+        </li>
+        <li class=lead>Site will refresh with video image screenshot and title. Please, make sure it is the video you want before 
+                    download youtube video. When 100% sure, use red button "Download HD Video" to download video, 
+                    or if you want a different format, hit the options button next to download button, it will expand 
+                    with more download options for video and audio. To make sure download happens 100% every time, 
+                    Right-Click on download link and select Save As (Mobile users: tap & hold, select Save Link As from the menu)
+        </li>
+        <li class=lead>If only <em>downloading youtube</em>, we will also offer youtube to mp3 converter buttons. 
+                    We are working on bringing different other mp3 converter options, but so far it is best to use 
+                    outside sources to <a href=https://fvid.party>download facebook video</a>. try our other services, 
+                    like <a href=https://ytop1.top>twitter video downloader</a> and <a href=https://clip.ninja>twitch clip downloader</a>. 
+        </li>    </div>
+    <div class="col-sm-12"><h2 class='h1title'>Q: <strong>What to do if my video isn't downloading but playing instead?</strong></h2>
+        <h3><strong>Answer</strong>: This annoying behavior has become a standard recently, most browsers doing exactly this - streaming video and audio, 
+                rather than downloading it. Try these methods in case you cannot download files straightforward.</h3>
+        <li class=lead>Windows Desktop: Right-Click on the download link, select Save Link As to donload the video.</li>
+        <li class=lead>Android: Tap and Hold (your finger) on the download button. Select Download File option. </li>
+        <li class=lead>Mac/IOS: you'd need special browser or app to download files, otherwise video download isn't possible on Apple devices 😞</li>
+        <li class=lead>Windows Desktop: some browsers respond to CTRL + Right-Click and start downloads automatically.</li>    </div>
+    <div class="col-sm-12"><h2 class='h1title'>Q: <strong>Where do I find the downloaded video files? </strong></h2>
+        <h3><strong>Answer</strong>: in your internet browser, open Main Menu & go to Downloads. You can also use an app to browse files on your phone. Or you can open main Downloads folder on a Windows Desktop, it can also be the Desktop folder itself.. </h3>    </div>
+</div>
+    
+</div>
+</div>
+<div class=bottomDark>
+<div class=container>
+<div id='sources-help' class="row">
+	<div class="col-xs-12">
+        Keepvid knows, Downloading and Storing copies of videos counts as fair use under U.S. copyright law. Please respect the rights of 
+               content owners and do not share copyrighted content anywhere. We are not affiliated with any video hosting websites we work with.
+	           This Website is to be used only to <a href=/>downloading online video</a> that belongs to you, or owners rights have been passed to you, or the video is common licensed which allows one to download it. 	</div>
+</div>
+</div>
+	 </div>
+<footer>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-2">
+				<h4 class="">Contact</h4>
+				<a href="mailto:admin@keepvid.works" target="_blank"><button title='send email to keepvid.works' class="social-font btn ssk-email" role="button"></button></a>
+			</div>
+			<div class="col-sm-10">
+				<h4 class="">About Keepvid...</h4>
+                old <a href=https://keepvid.works>KeepVid</a> has been possibly bullied to shut down their video downloading service. But do not worry, we have <a href=https://keepvid.works>new keepvid</a> for you! it is same service, just under a different domain name extension. 
+				use it as you used to before: get the video URL, paste it into the box, press the button, see download options load, select HD video format and size, and go for it, or just get the mp3 with different quality options (<a href=https://listentoyt.org/><em>youtube to mp3</em></a> converter buttons are there for youtube videos only at the moment, <em>keepvid mp3</em> for youtube only).
+				<br><br>
+				All that we ask is... <strong>Please, share this site with your friends! </strong>                <br><br><a href=/>English</a> &nbsp; <a href=/ru/>Русский</a> &nbsp; <a href=/hu/>Magyar</a> &nbsp; <a href=/es/>Español</a> &nbsp; <a href=/fr/>Français</a> &nbsp; <a href=/pt/>Português</a> &nbsp; <a href=/tr/>Türkçe</a> &nbsp; <a href=/it/>Italiano</a> &nbsp; <a href=/jp/>日本語</a> &nbsp; <a href=/pl/>Polski</a> &nbsp; <a href=/ua/>Українська</a> &nbsp; <a href=/de/>Deutsch</a> &nbsp; <a href=/zh/>中文</a> &nbsp;  <a href=https://ymp4.download>Youtube mp4</a>
+			</div>
+		</div>
+	</div>	
+</footer>
+</div>
+    
+<span class='bg-primary h3-resp btnA2HS top-left-a2hs hidden shad' id=btnAdd name=btnAdd>[+] Add to Home Screen</span>          
+    
+<div class="ssk-sticky ssk-xs hidden visible-xs">
+    <a href="" class="ssk ssk-facebook" ></a>
+    <a href="" class="ssk ssk-twitter" ></a>
+    <a href="" class="ssk ssk-vk"></a>
+    <a href="" class="ssk ssk-tumblr"></a>
+    <a href="" class="ssk ssk-email" ></a>
+</div>
+
+<div class="ssk-sticky ssk-top ssk-right ssk-sticky-hide-xs">
+    <a href="" class="ssk ssk-facebook" ></a>
+    <a href="" class="ssk ssk-twitter"></a>
+    <a href="" class="ssk ssk-vk"></a>
+    <a href="" class="ssk ssk-tumblr"></a>
+    <a href="javascript:" id='mmoreL' class="ssk"><span class="glyphicon glyphicon-plus"></span></a>
+	<div id='mmore' class='' style='display:none;'>
+	    <a href="" class="ssk ssk-pinterest"></a>
+	  	<a href="" class="ssk ssk-buffer"></a>
+	  	<a href="" class="ssk ssk-linkedin"></a>
+	  	<a href="" class="ssk ssk-email"></a>
+	</div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>    
+<script type="text/javascript" src="/socialsharekit/js/social-share-kit.min.js"></script>
+<link rel="stylesheet" href="/socialsharekit/css/social-share-kit.css" type="text/css">
+<script type="text/javascript" src="/keepvid.js?v20011024"></script>
+    
+<link rel="stylesheet" href="/jquery-ui.min.css">
+<script type="text/javascript" src="/jquery-ui.min.js"></script>
+<script>var stype='video';</script>
+<script>jsValue1 = "Hi. We are happy you're curious about our Bookmarklet. It is simply a 'shortcut'. Drag this link to your Bookmarks (on mobile tap the link and hold until menu pops up). When you're watching some video, click this bookmark to be redirected to keepvid with video URL already neatly in the box. ";sid = "6dvsho8eiuml8ofrr0336meo5l"</script>
+    
+</body>
+</html>
