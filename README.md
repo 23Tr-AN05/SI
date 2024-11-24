@@ -7,7 +7,7 @@
   <h1 id="h1" style="border: 1px solid red; padding: 10px;"><b>BARRIÈRE SYMPACT</b></h1>
   <center><img src="im/1.jpg" /></center>
   <br>
-  <center><img scr="im/2.jpg"  />
+  <center><img src="im/2.jpg"  />
   <br>
   <video src="im/SYMPACT BARRIERE AUTOMATIQUE inventor.mp4" width="300" controls/>
 
@@ -25,7 +25,7 @@
   Ainsi, on établie la loi entrée-sortie: 
   <br> <center><img scr="im/7.jpg"  /> </center>
   Ainsi on obtinet 'équation suivante: 
-  <br><img scr="im/8.jpg"    />  
+  <br><img src="im/8.jpg"    />  
   </p>
    <p id="para3" style="border: 1px solid black; padding: 10px;"> <font style="color:red">Le système et le schéma cinématique</font>
   <br>
