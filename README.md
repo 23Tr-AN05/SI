@@ -9,9 +9,7 @@
   <br>
   <center><img src="im/2.jpg"  />
   <br>
-  <video controls width="500">
-   <source src="/1.mp4" type="video/mp4" />
-  </video>
+ 
   
 
 
@@ -46,3 +44,9 @@
   <center><img src="im/Figure_1 (1).png"  />
  
   </p>
+
+
+ <video controls width="500">
+   <source src="/1.mp4" type="video/mp4" />
+  </video>
+  </body>
