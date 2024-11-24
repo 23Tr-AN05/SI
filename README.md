@@ -9,7 +9,7 @@
   <br>
   <center><img src="im/2.jpg"  />
   <br>
-  <video src="im/1.mp4" width="500" controls / >
+  <video src="im/1.mp4" width="500" controls/>
 
 
 
