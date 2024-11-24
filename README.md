@@ -21,7 +21,7 @@
   <p id="para3">
   <center>  <img src="im/3.jpg" style="float:left;" /><img src="im/4.jpg" style="float:left;" /></center>
   </p>
-  <p id="para2" style="border: 1px solid black; padding: 10px;"><cnter> <font style="color:red">La loi entrée-sortie</font></center></p>
+  <p id="para2" style="border: 1px solid black; padding: 10px;"><center> <font style="color:red">La loi entrée-sortie</font></center></p>
   <p id="para3">
   Les schémas de changement de bases:
   <br><center >  <img src="im/5.jpg" style="float:left;" /><img src="im/6.jpg" style="float:left;" /></center>
