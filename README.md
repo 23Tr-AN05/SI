@@ -12,7 +12,7 @@
   <video controls width="500">
    <source src="/1.mp4" type="video/mp4" />
   </video>
-  <video src="im/1.mp4" width="500" controls/>
+  
 
 
 
