@@ -39,7 +39,11 @@
   Par la superposition des courbes théorique (à partir de l'équation ci-dessus) et les valeurs relevées expérimentalement, on obtinet le graphique suivant:</p>
   <br>
   <center><img src="im/Figure_1 (1).png"  /></center>
- 
+ <hr>
+  <link href="https://pyscript.net/alpha/pyscript.css" rel="stylesheet"></link> <script defer="defer" src="https://pyscript.net/alpha/pyscript.js"></script>
+<hr>
+
+
   
 
 
