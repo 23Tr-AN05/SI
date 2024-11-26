@@ -41,7 +41,8 @@
   <center><img src="im/Figure_1 (1).png"  /></center>
  <hr>
   <link href="https://pyscript.net/alpha/pyscript.css" rel="stylesheet"></link> <script defer="defer" src="https://pyscript.net/alpha/pyscript.js"></script>
-<hr>
+  <py-script>print("hello les petits fous")</py-script> 
+   <hr>
 
 
   
