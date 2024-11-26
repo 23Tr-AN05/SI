@@ -5,6 +5,7 @@
  </head>
  <body>
   <h1 id="h1" style="border: 1px solid red; padding: 10px;"><b>BARRIÈRE SYMPACT</b></h1>
+   <a href="image/TP_Sympact.pdf" dowload=""><p id="para3">TP_sympact</p></a>
   <center><img src="im/1.jpg" /></center>
   <br>
   <center><img src="im/2.jpg"  />
